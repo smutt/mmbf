@@ -1,2 +1,2 @@
 # mmbf
-Brute force a Mailman Installation
+A completely unsophisticated brute force tool for Mailman installations
